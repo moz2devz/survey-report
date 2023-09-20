@@ -31,7 +31,7 @@
   "email": "O E-mail é obrigatório.",
   "errorEmail": "E-mail Inválido",
   "firstName": "O primeiro nome é obrigatório.",
-  "firstNameMin":  "No mínimo 3 caracteres.",
+  "firstNameMin": "No mínimo 3 caracteres.",
   "lastName": "O apelido é obrigatório.",
   "companyOrUniversityName": "Nome da empresa é obrigatório.",
   "jobOrCourseTitle": "Título do cargo é obrigatório",
